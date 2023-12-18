@@ -27,11 +27,14 @@ Bu proje, Flutter ve Dart programlama dilleri kullanılarak geliştirilmiştir. 
 
 ## Ekran Görüntüleri
 
-![Ekran Görüntüsü 1](![Ekran görüntüsü 2023-12-18 150910](https://github.com/RFatihK/dy_test/assets/105307052/9513a168-db60-43fe-bea9-3366742ff1ef)
+![Ekran Görüntüsü 1](![Ekran görüntüsü 2023-12-18 150910]
+(https://github.com/RFatihK/dy_test/assets/105307052/9513a168-db60-43fe-bea9-3366742ff1ef)
 )
-![Ekran Görüntüsü 2](![Ekran görüntüsü 2023-12-18 150944](https://github.com/RFatihK/dy_test/assets/105307052/b98cf6da-1bb8-44d4-bc1b-7be12002da53)
+![Ekran Görüntüsü 2](![Ekran görüntüsü 2023-12-18 150944]
+(https://github.com/RFatihK/dy_test/assets/105307052/b98cf6da-1bb8-44d4-bc1b-7be12002da53)
 )
-![Ekran Görüntüsü 3](![Ekran görüntüsü 2023-12-18 150944](![Ekran görüntüsü 2023-12-18 151010](https://github.com/RFatihK/dy_test/assets/105307052/61c4ca16-a5ff-4617-a121-ae2263f95a47)
+![Ekran Görüntüsü 3](![Ekran görüntüsü 2023-12-18 150944]
+(![Ekran görüntüsü 2023-12-18 151010](https://github.com/RFatihK/dy_test/assets/105307052/61c4ca16-a5ff-4617-a121-ae2263f95a47)
 )
 )
 
